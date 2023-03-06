@@ -3,9 +3,9 @@
 
 <tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
  
-<channel id="DAZN_F1.es">
+ <channel id="DAZN_F1.es">
   <display-name>DAZN F1</display-name>
   <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" width="360" height="270" />
-</channel> 
+ </channel> 
 
 </tv>
