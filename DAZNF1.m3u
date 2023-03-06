@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/gustavograjales/Test/main/EPG_DAZNF1.xml"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/jwmzn1qq1raj14vmn721"
 #EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Sports" tvg-shift="-6",DAZN F1
 https://epg.pw/stream/d556fb1a84d6d1e07b2007723294c4e3f984cf6c5e0be7a34e551bc227483a3c.ctv
 #EXTINF:-1 tvg-id="DAZN_F1.es" tvg-name="DAZN F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" group-title="Sports" tvg-shift="-6",DAZN F1
