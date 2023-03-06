@@ -2,15 +2,26 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 
 <tv source-info-name="Schedules Direct" generator-info-name="mc2xml" generator-info-url="mailto:mc2xml@gmail.com">
- <!--
+ <!--Comment-->
  <channel id="DAZN_F1.es">
   <display-name>DAZN F1</display-name>
   <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" width="360" height="270" />
  </channel> 
--->
+
  <channel site_id="757" site="elmundo.es" xmltv_id="DAZN F1">
   <display-name>DAZN F1</display-name>
   <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/DAZN_F1_logo.svg/1280px-DAZN_F1_logo.svg.png" width="360" height="270" />
  </channel>
 
-</tv>
+ <channel update="i" site="movistarplus.es" site_id="MVF1" xmltv_id="DAZN F1">DAZN F1</channel>
+ <channel update="i" site="m.movistarplus.es" site_id="MVF1" xmltv_id="DAZN F1">DAZN F1</channel>
+ <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1">DAZN F1</channel>
+ <channel update="i" site="m.movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1">DAZN F1</channel>
+ <channel update="i" site="sincroguia-tv" site_id="dazn-f1" xmltv_id="DAZN F1">DAZN F1</channel>
+ 
+ 
+ <channel update="i" site="movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2">DAZN 2</channel> 
+ <channel update="i" site="m.movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2">DAZN 2</channel>
+ <channel update="i" site="m.movistarplus.es" site_id="DAZN3" xmltv_id="DAZN 3">DAZN 3</channel>
+  
+ </tv>
