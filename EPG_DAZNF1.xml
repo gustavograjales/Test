@@ -19,11 +19,9 @@ Comment-->
  <channel update="i" site="movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1">DAZN F1</channel>
  <channel update="i" site="m.movistarplus.es" site_id="MF1UHD" xmltv_id="DAZN F1">DAZN F1</channel>
  <channel update="i" site="sincroguia-tv" site_id="dazn-f1" xmltv_id="DAZN F1">DAZN F1</channel>
- 
- <!--
  <channel update="i" site="movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2">DAZN 2</channel> 
  <channel update="i" site="m.movistarplus.es" site_id="M2SD" xmltv_id="DAZN 2">DAZN 2</channel>
  <channel update="i" site="m.movistarplus.es" site_id="DAZN3" xmltv_id="DAZN 3">DAZN 3</channel>
-  -->
+
  
  </tv>
